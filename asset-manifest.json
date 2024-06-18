@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tripadvisor23/static/css/main.e6c13ad2.css",
+    "main.js": "/tripadvisor23/static/js/main.19210666.js",
+    "static/js/787.b92d5f48.chunk.js": "/tripadvisor23/static/js/787.b92d5f48.chunk.js",
+    "index.html": "/tripadvisor23/index.html",
+    "main.e6c13ad2.css.map": "/tripadvisor23/static/css/main.e6c13ad2.css.map",
+    "main.19210666.js.map": "/tripadvisor23/static/js/main.19210666.js.map",
+    "787.b92d5f48.chunk.js.map": "/tripadvisor23/static/js/787.b92d5f48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.19210666.js"
+  ]
+}
